@@ -418,3 +418,36 @@ span{
     border-left: transparent;
     border-top-right-radius: 10px;
 }
+.footer{
+    height: 609px;
+    margin-top: 200px;
+    background-color: black;
+    display: flex;
+}
+.ft-1{
+    width: 530px;
+    color: white;
+    margin-top: 120px;
+    margin-left: 140px;
+}
+.ft-1>p{
+    margin-top: 409px;
+   
+}
+.ft-2{
+    width: 530px;
+    margin-top: 298px;
+}
+.ft-2>img:hover{
+    border: 2px solid wheat;
+}
+.ft-3{
+    color: white;
+    margin-top: 120px;
+}
+.mobile{
+    display: flex;
+}
+.website{
+    display: flex;
+}
