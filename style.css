@@ -315,3 +315,66 @@ span{
     font-weight: 400;
     line-height: 20px;
 }
+.Choice-gifts{
+    height: 304px;
+    width: 1325px;
+    margin-left: 140px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.bag-1{
+    height: 450px;
+    width: 424px;
+    background-color: white;
+    background-image: url("resources/Rectangle 3.png");
+    background-size: cover;
+    margin-right: 24px;
+}
+.bag-2{
+    height: 450px;
+    width: 424px;
+    background-color: white;
+    margin-right: 24px;
+    background-image: url("resources/Rectangle 4.png");
+    background-size: cover;
+}
+.shoe-1{
+    height: 450px;
+    width: 424px;
+    background-color: white;
+    background-image: url("resources/Rectangle 5.png");
+    background-size: cover;
+}
+.shoe-2{
+    height: 450px;
+    width: 424px;
+    margin-top: 24px;
+    margin-right: 24px;
+    background-color:white;
+    background-image: url("resources/Rectangle 6.png");
+    background-size: cover;
+}
+.glass{
+    height: 450px;
+    width: 424px;
+    background-color: white;
+    margin-top: 24px;
+    margin-right: 24px;
+    background-image: url("resources/Rectangle 7.png");
+    background-size: cover;
+}
+.bangles{
+    height: 450px;
+    width: 424px;
+    background-color: white;
+    margin-top: 24px;
+    background-image: url("resources/Rectangle 8.png");
+    background-size: cover;
+}
+.hv{
+    border: 1px solid transparent;
+}
+.hv:hover{
+    border: 1.5px solid black;
+    border-radius: 5px;
+}
