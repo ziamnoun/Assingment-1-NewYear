@@ -213,3 +213,82 @@ span{
 #img-ofr-des{
    margin-top: 170px;
 }
+/*function part*/
+.FunCtion{
+    background-color: white;
+    width: 1320px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 220px;
+    margin-left: 140px;
+
+}
+#func-1{
+    color:#070211;
+    font-size: 24px;
+    font-weight: 500;
+}
+#func-2{
+    color:#070211;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 28px;
+
+}
+#func-3{
+    color:rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 28px;
+}
+/*Photo Section*/
+.Photo-Discount{
+    height: 433px;
+    width: 1320px;
+    background-color: white;
+    margin-left: 140px;
+    margin-top: 50px;
+    border-radius: 20px;
+    display: flex;
+}
+.blank-Side{
+    width: 892px;
+    height: 100%;
+    background-color: white
+}
+.img-dc{
+    float: right;
+}
+.Photo-side{
+    display: flex;
+    align-items: center;
+}
+#above{
+    height: 210px;
+    width: 210px;
+    background-color: transparent
+    border-radius: 50%;
+    border: 0px solid white;
+    background-image: url("resources/Group 44.png");
+    background-size: cover;
+    position: relative;
+    left: 100px;
+}
+/*Gift box section*/
+.Gift-box{
+    height: 229px;
+    width: 1320px;
+    margin-left: 140px;
+    background-image: url("resources/Rectangle 2.png");
+    background-size: cover;
+}
+.gift-box-img{
+    height: 229px;
+    width: 350px;
+    position: relative;
+    bottom: 370px;
+    left: 40px;
+
+}
