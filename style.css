@@ -292,3 +292,26 @@ span{
     left: 40px;
 
 }
+/*best gift section*/
+.best-Gifts-section{
+    margin-left: 140px;
+    margin-top: 120px;
+    text-align: left;
+    line-height: 80px;
+}
+#Best-Gift{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+#portfolio{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+}
+#Praise{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+}
