@@ -431,7 +431,7 @@ span{
     margin-left: 140px;
 }
 .ft-1>p{
-    margin-top: 409px;
+    margin-top: 370px;
    
 }
 .ft-2{
@@ -450,4 +450,23 @@ span{
 }
 .website{
     display: flex;
+    flex-direction: column;
+}
+#final{
+    display: flex;
+}
+#Unsubscribe{
+    margin-top: 370px;
+    margin-left: 150px;
+}
+#bt-2{
+    background-color: transparent;
+    border-radius: 2px;
+    border:2px solid transparent;
+}
+#bt-2:hover{
+    background-color: red;
+    color: white;
+    border-radius: 2px;
+    border:2px solid green;
 }
